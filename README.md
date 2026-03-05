@@ -5,7 +5,6 @@
 🌱 Currently learning Data Structures, Algorithms, and Web Development  
 🚀 Interested in AI and Software Development  
 
----
 
 ## 🧑‍💻 Skills
 
@@ -18,7 +17,6 @@
 - Git & GitHub
 
 
----
 
 ## 🚀 Projects
 
