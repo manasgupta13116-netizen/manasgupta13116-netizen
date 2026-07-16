@@ -13,6 +13,7 @@
 - Data Structures & Algorithms
 - HTML
 - CSS
+- JavaScript
 - Python
 - Git & GitHub
 
