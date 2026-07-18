@@ -1,186 +1,68 @@
-# <div align="center">
+# Hi 👋, I'm Manas Gupta
 
-# 👋 Hi, I'm Manas Gupta
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;Learning+DSA+and+Web+Development;Interested+in+AI+%26+Software+Development)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;Building+Modern+Web+Applications;Learning+Data+Structures+%26+Algorithms;Exploring+Artificial+Intelligence;Always+Learning+Something+New+🚀" />
+🎓 Student at Chandigarh University  
+💻 Aspiring Software Developer  
+🌱 Currently learning Data Structures, Algorithms, and Web Development  
+🚀 Interested in AI and Software Development  
 
-</div>
+## 🧑‍💻 Skills
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-4B0082?style=for-the-badge)
 
-## 🚀 About Me
+## 🚀 Projects
 
-🎓 Computer Science Student at **Chandigarh University**
+🔹 **[AI Gesture Control](https://github.com/manasgupta13116-netizen/AI-Gesture-Control)**  
+Python + OpenCV + Mediapipe project to control computer using hand gestures.
 
-💻 Passionate about **Software Development**, **Artificial Intelligence**, and **Web Technologies**
+🔹 **[Code With Manas](https://code-with-manas.vercel.app/)**  
+Repository for web development practice and learning.
 
-🌱 Currently learning
+🔹 **[The-Programerzz](https://the-programerzz-w5z8.vercel.app/)**  
+Built using pure HTML, CSS & JavaScript.
 
-- Data Structures & Algorithms
-- Frontend Web Development
-- AI & Computer Vision
-- Git & Open Source
+🔹 **[Netflix-UI Clone]( https://flixstudio-ui-clone-git-main-manasgupta13116-netizens-projects.vercel.app/)**  
+Pixel-perfect Netflix landing page
 
-🎯 My goal is to become a Software Engineer who builds impactful and scalable applications.
-
----
-
-# 🛠 Tech Stack
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
 
 ---
 
-# 🚀 Featured Projects
+## 📊 GitHub Stats
 
-## 🤖 AI Gesture Control
-
-### Computer Vision • Python • OpenCV • MediaPipe
-
-✨ Features
-
-- Control computer using hand gestures
-- Real-time hand tracking
-- AI-powered gesture recognition
-- Built using OpenCV & MediaPipe
-
-🔗 **Repository**
-
-https://github.com/manasgupta13116-netizen/AI-Gesture-Control
+![Manas's GitHub stats](https://github-readme-stats.vercel.app/api?username=manasgupta13116-netizen&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🎬 FlixStudio
+## 🔥 GitHub Streak
 
-### Netflix Landing Page Clone
-
-✨ Features
-
-- Pixel Perfect UI
-- Responsive Design
-- Smooth CSS Animations
-- Pure HTML5 & CSS3
-- Interactive Components
-
-🌐 Live Demo
-
-https://flixstudio-ui-clone-git-main-manasgupta13116-netizens-projects.vercel.app/
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manasgupta13116-netizen&theme=tokyonight)
 
 ---
 
-## 🌐 Code With Manas
+## 🌐 Connect With Me
 
-A collection of web development practice projects showcasing responsive layouts, animations, and frontend concepts.
-
-🌐 Live Demo
-
-https://code-with-manas.vercel.app/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manas-gupta-89627a377)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manasguptaofficial13116@gmail.com)
 
 ---
 
-## 💻 The Programerzz
-
-A modern responsive website built using pure HTML, CSS and JavaScript.
-
-🌐 Live Demo
-
-https://the-programerzz-w5z8.vercel.app/
-
----
-
-# 📌 Currently Working On
-
-- 📚 Solving DSA Problems
-- 🌐 Frontend Development
-- 🤖 AI Projects
-- 🚀 Building Portfolio Projects
-- 📖 Learning Modern JavaScript
-
----
-
-# 🏆 Achievements
-
-✅ Built Multiple Responsive Websites
-
-✅ Developed AI Computer Vision Projects
-
-✅ Learning DSA Consistently
-
-✅ Exploring Open Source
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=manasgupta13116-netizen&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=manasgupta13116-netizen&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-[![Manas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manasgupta13116-netizen&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
----
-
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manasgupta13116-netizen/manasgupta13116-netizen/output/github-contribution-grid-snake-dark.svg">
-<img src="https://raw.githubusercontent.com/manasgupta13116-netizen/manasgupta13116-netizen/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manasgupta13116-netizen/manasgupta13116-netizen/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/manasgupta13116-netizen/manasgupta13116-netizen/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/manas-gupta-89627a377">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:manasguptaofficial13116@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### 💙 Thanks for visiting my profile!
-
-⭐ If you like my work, consider starring my repositories.
-
-<img src="https://komarev.com/ghpvc/?username=manasgupta13116-netizen&style=for-the-badge&color=2196F3"/>
-
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=manasgupta13116-netizen&color=blue)
