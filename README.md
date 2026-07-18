@@ -31,8 +31,8 @@ Repository for web development practice and learning.
 🔹 **[Netflix-UI Clone]( https://flixstudio-ui-clone-git-main-manasgupta13116-netizens-projects.vercel.app/)**  
 Built using pure HTML, CSS & JavaScript.
 
-🔹 **[The-Programerzz](https://the-programerzz-w5z8.vercel.app/)**  
-Built using pure HTML, CSS & JavaScript.
+🔹 **[The-Programerzz](https://the-programerzz-w5z8.vercel.app/)**
+
 ---
 
 ## 📊 GitHub Stats
