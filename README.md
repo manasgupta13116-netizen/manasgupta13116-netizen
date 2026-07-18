@@ -8,6 +8,8 @@
 
 ## 🧑‍💻 Skills
 
+- Python
+- MySQl
 - C
 - C++
 - Data Structures & Algorithms
