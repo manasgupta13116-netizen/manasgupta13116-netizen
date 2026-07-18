@@ -25,10 +25,10 @@
 🔹 **[AI Gesture Control](https://github.com/manasgupta13116-netizen/AI-Gesture-Control)**  
 Python + OpenCV + Mediapipe project to control computer using hand gestures.
 
-🔹 **[Code With Manas](https://github.com/manasgupta13116-netizen/Code-With-Manas)**  
+🔹 **[Code With Manas]([https://code-with-manas.vercel.app/])**  
 Repository for web development practice and learning.
 
-🔹 **[Netflix-UI Clone](https://github.com/manasgupta13116-netizen/Netflix-UI-Clone)**  
+🔹 **[Netflix-UI Clone]( https://flixstudio-ui-clone-git-main-manasgupta13116-netizens-projects.vercel.app/)**  
 Built using pure HTML, CSS & JavaScript.
 
 ---
