@@ -32,8 +32,6 @@ Repository for web development practice and learning.
 🔹 **Netflix-UI Clone**  
 Build using pure HTML , CSS & JavaScript
 
-🔹 **DSA Driven**  
-To Visualize how DSA actually looks like(build using HTML , CSS & JavaScript)
 ---
 
 ## 📊 GitHub Stats
