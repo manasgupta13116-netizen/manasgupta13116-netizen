@@ -50,6 +50,13 @@ Built using pure HTML, CSS & JavaScript.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manas-gupta-89627a377)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manasguptaofficial13116@gmail.com)
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manasgupta13116-netizen/manasgupta13116-netizen/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/manasgupta13116-netizen/manasgupta13116-netizen/output/github-contribution-grid-snake.svg">
+</picture>
+
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=manasgupta13116-netizen&color=blue)
