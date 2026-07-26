@@ -28,10 +28,10 @@ Python + OpenCV + Mediapipe project to control computer using hand gestures.
 🔹 **[Code With Manas](https://code-with-manas.vercel.app/)**  
 Repository for web development practice and learning.
 
-🔹 **[The-Programerzz](https://the-programerzz-w5z8.vercel.app/)**  
+🔹 **[The-Programerzz](https://the-programerzz-8ccc.vercel.app/)**  
 Built using pure HTML, CSS & JavaScript.
 
-🔹 **[Netflix-UI Clone]( https://flixstudio-ui-clone-git-main-manasgupta13116-netizens-projects.vercel.app/)**  
+🔹 **[Netflix-UI Clone]( https://netflix-ui-clone-coral.vercel.app/)**  
 Pixel-perfect Netflix landing page
 
 
