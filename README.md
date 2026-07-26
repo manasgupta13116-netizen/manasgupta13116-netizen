@@ -31,7 +31,7 @@ Repository for web development practice and learning.
 🔹 **[The-Programerzz](https://the-programerzz-8ccc.vercel.app/)**  
 Built using pure HTML, CSS & JavaScript.
 
-🔹 **[Netflix-UI Clone]( https://netflix-ui-clone-coral.vercel.app/)**  
+🔹 **[Netflix-UI Clone]( https://netflix-ui-clone-git-main-manasgupta13116-netizens-projects.vercel.app/)**  
 Pixel-perfect Netflix landing page
 
 
