@@ -1,6 +1,6 @@
 # Hi 👋, I'm Manas Gupta
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;Learning+DSA+and+Web+Development;Interested+in+AI+%26+Software+Development)
+![Typing SVG]
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;Learning+DSA+and+Web+Development;AI+Enthusiast+%26+Software+Development" alt="Typing SVG" />
 
