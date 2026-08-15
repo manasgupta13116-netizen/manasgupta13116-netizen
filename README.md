@@ -2,6 +2,8 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;Learning+DSA+and+Web+Development;Interested+in+AI+%26+Software+Development)
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;Learning+DSA+and+Web+Development;Interested+in+AI+%26+Software+Development" alt="Typing SVG" />
+
 🎓 2nd Year Engineering Student    
 💻 Aspiring Software Developer  
 🌱 Currently learning Data Structures, Algorithms, and Web Development  
